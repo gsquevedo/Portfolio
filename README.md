@@ -23,14 +23,9 @@ Gilson Garcia
 - Bootstrap Icons
 - GitHub IO
 
-### Créditos para colegas que colaboraram
-- João Vitor Beltrame
-- Gilson Garcia
-
 ### Bastidores
-- Primeiramente, obtive sucesso com o cliente, um bom retorno das informações necessárias para a implementação do produto. 
 - Relembrei meus conhecimentos das tecnologias HTML, CSS e JQuery.
 - Primeiro contato com o GitHub IO.
-- Dificuldade com "encaixe" das informações e alguns erros ao dar commit no GitHub.
 
-Acesso: https://elc1090.github.io/project1-gsquevedo/
+### Objetivo
+- Site estático desenvolvido para a disciplina de desenvolvimento Web.
