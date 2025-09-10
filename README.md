@@ -1,31 +1,58 @@
-## Portfolio Gilson Garcia
+# 🌐 Portfolio Gilson Garcia
 
-### Screenshot do projeto.
-![screenshot](./screen.png)
+**Site estático desenvolvido para a disciplina de Desenvolvimento Web.**  
 
-### Desenvolvedor(a)
-Gabriele Soares Quevedo
+---
 
-### Cliente
-Gilson Garcia
+## 📷 Screenshot do Projeto
 
-### Tecnologias
+![Screenshot do projeto](./screen.png)
+
+---
+
+## 🧑‍💻 Desenvolvedor(a)
+
+**Gabriele Soares Quevedo**
+
+---
+
+## 👤 Cliente
+
+**Gilson Garcia**
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
 - HTML
 - CSS
 - JQuery
 - Bootstrap
 
-### Ambiente de desenvolvimento
+---
+
+## 💻 Ambiente de Desenvolvimento
+
 - VS Code
 
-### Créditos
-- Google Fonts
-- Bootstrap Icons
-- GitHub IO
+---
 
-### Bastidores
-- Relembrei meus conhecimentos das tecnologias HTML, CSS e JQuery.
-- Primeiro contato com o GitHub IO.
+## 📁 Bastidores
 
-### Objetivo
-- Site estático desenvolvido para a disciplina de desenvolvimento Web.
+- Relembrei e pratiquei conhecimentos em **HTML, CSS e JQuery**.
+- Primeiro contato com a plataforma **GitHub Pages / GitHub IO**.
+- Estruturação do projeto para apresentação de portfolio de forma responsiva e organizada.
+
+---
+
+## 🎯 Objetivo
+
+- Criar um **site estático** para apresentação de trabalhos e informações de um cliente fictício, aplicando conceitos de desenvolvimento web front-end.
+
+---
+
+## ⚡ Créditos
+
+- [Google Fonts](https://fonts.google.com/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/)
+- [GitHub Pages](https://pages.github.com/)
